@@ -1,4 +1,4 @@
-# Clearlyy animation skills
+# Animation skills
 
 Claude Code skills for the animations made in this project. Each folder is one skill (`SKILL.md` plus any scripts). They live in a project's `.claude/skills/` folder.
 
